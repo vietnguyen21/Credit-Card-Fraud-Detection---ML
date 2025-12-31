@@ -76,6 +76,6 @@ pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-lear
 
 ## 🚀 Usage
 
-1. Ensure `Model_data_creditcard.csv` is in the same directory as the notebooks.
+1. Run **`download_data`** to download data from kaggle and extract to csv.
 2. Run **`eda.ipynb`** to generate visualizations and understand the data.
 3. Run **`model.ipynb`** to train the models, tune hyperparameters, and output the evaluation metrics.# Credit-Card-Fraud-Detection---ML
